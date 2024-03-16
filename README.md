@@ -1,2 +1,2 @@
-# RusUkr-war-news-analysis
-Analysis of which oblasts the Russia-Ukraine war news from Telegram came from with apriori algorithm
+# Ukraine war news analysis
+Association analysis of news from oblasts according to the news from telegram of the Russia-Ukraine war
